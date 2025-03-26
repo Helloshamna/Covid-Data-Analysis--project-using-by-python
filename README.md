@@ -14,4 +14,4 @@ Geographical Impact: Mapping COVID-19 spread using Folium or Plotly.
 
 Predictive Modeling (Optional): Applying machine learning techniques like Linear Regression or ARIMA for forecasting future cases.
 
-This project helps understand the dynamics of COVID-19 through data-driven insights and visualizations. 🚀
+This project helps understand the dynamics of COVID-19 through data-driven insights and visualizations. 
